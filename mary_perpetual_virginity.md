@@ -24,7 +24,9 @@ When Joseph awoke from sleep, he did as the angel of the Lord commanded him; he 
   </blockquote>
 </details>
 
-<h1>Did Jesus have brothers born of Mary? <a href='https://view-on-whenhub.herokuapp.com/load_widget'><img src='https://view-on-whenhub.herokuapp.com/static/view-on-whenhub-button.png' height='32' width='138'></a></h1>
+<a href='https://view-on-whenhub.herokuapp.com/load_widget'><img src='https://view-on-whenhub.herokuapp.com/static/view-on-whenhub-button.png' height='32' width='138'></a>
+
+<h1>Did Jesus have brothers born of Mary?</h1>
 
 <details>
   <summary>
