@@ -30,7 +30,7 @@ When Joseph awoke from sleep, he did as the angel of the Lord commanded him; he 
 
 <details>
   <summary>
-  145 AD | <a href='https://en.wikipedia.org/wiki/Gospel_of_James'>Protoevangelium of James</a>: <b>No</b>, but rather half-brothers (Joseph's children from a previous marriage).
+  145 AD | <a href='https://en.wikipedia.org/wiki/Gospel_of_James'>Protoevangelium of James</a>: <b>No</b>
   </summary>
   <blockquote>
 
