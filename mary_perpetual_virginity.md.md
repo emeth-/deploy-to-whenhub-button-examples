@@ -181,7 +181,7 @@ None of his works survived, but his teachings are preserved in <a href='http://w
 
 <details>
   <summary>
-  383 AD | <a href='https://en.wikipedia.org/wiki/Jerome'>Jerome</a>: <b>No</b>, but rather kin (cousins)
+  383 AD | <a href='https://en.wikipedia.org/wiki/Jerome'>Jerome</a>: <b>No</b>
   </summary>
   <blockquote>
 
@@ -223,7 +223,7 @@ St. Ambrose of Milan (397 A.D.) cites the beautiful prophecy of Ezekiel—"This 
 
 <details>
   <summary>
-  390 AD | <a href='https://en.wikipedia.org/wiki/Jovinian'>Jovinianus</a>: <b>Yes</b>, condemned as a heretic in 393
+  390 AD | <a href='https://en.wikipedia.org/wiki/Jovinian'>Jovinianus</a>: <b>Yes</b>
   </summary>
   <blockquote>
 
@@ -235,7 +235,7 @@ Quoted from <a href='http://www.newadvent.org/cathen/08530a.htm'>here</a>
 
 <details>
   <summary>
-  391 AD | <a href='https://en.wikipedia.org/wiki/Bonosus_of_Sardica'>Bonosus of Sardica</a>: <b>Yes</b>, later condemned as a heretic
+  391 AD | <a href='https://en.wikipedia.org/wiki/Bonosus_of_Sardica'>Bonosus of Sardica</a>: <b>Yes</b>
   </summary>
   <blockquote>
 
