@@ -1,4 +1,4 @@
- <a href='https://view-on-whenhub.herokuapp.com/load_widget'><img src='https://view-on-whenhub.herokuapp.com/static/view-on-whenhub-button.png' height='32' width='138'></a>
+<a href='https://view-on-whenhub.herokuapp.com/load_widget'><img src='https://view-on-whenhub.herokuapp.com/static/view-on-whenhub-button.png' height='34' width='168'></a>
 
 <h1>Flight timeline</h1>
 
